@@ -11,7 +11,17 @@ The idea of GaaziBokon is simple:
 
 ## How to setup client?
 
-The KaiOS, Android and iOS clients are to be written.
+### KaiOS
+
+There is a limited KaiOS app which you can sideload. [Repository](https://github.com/gaazibokon/gaazibokon_kaios)
+
+### Android
+
+The Android app is to be written.
+
+### iOS
+
+The iOS app is to be written.
 
 ## How to setup server?
 
