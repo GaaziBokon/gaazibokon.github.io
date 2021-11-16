@@ -29,7 +29,7 @@ Assuming you've got `python3` installed:
 
  - `git clone https://github.com/gaazibokon/gaazibokon_server`
  - `cd gaazibokon_server`
- - Edit `layouts.json` to your need.
+ - Edit `layouts.json` to suit your need.
  - Put a password in `password` file so that the server will require the clients to have one if they want to connect. Possibly leave the file empty or delete it if you don't want to set a password.
  - `python3 main.py bind_address port`
  - Optionally change priority of this process
